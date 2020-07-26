@@ -84,7 +84,7 @@ class Blog extends React.Component {
     }
 
     copyright() {
-        return "© 2019 PI's Blog. Owned and Operated by Piyush Itankar."
+        return "© 2020 Atik's Blog. Owned and Operated by Atikur Rahman."
     }
 
     renderDetails = (id)=>{
